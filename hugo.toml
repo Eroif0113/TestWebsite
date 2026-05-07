@@ -1,4 +1,9 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'blowfish'
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
