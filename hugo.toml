@@ -1,9 +1,0 @@
-baseURL = 'https://testwebsite.pages.dev/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
-theme = 'blowfish'
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    weight = 1
